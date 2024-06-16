@@ -1,5 +1,5 @@
 class CfgPatches
 {
-	class LPAF_Libya_main
+	class ANP_alysian__National_Police_main
 	{ 
      "
